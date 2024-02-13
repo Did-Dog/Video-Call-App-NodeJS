@@ -117,7 +117,7 @@ export default {
                     username: "brie",
                     credential: "fi",
                     urls: [
-                        "turn:turn01.brie.fi:5349"
+                        "turn:turn01.brie.fi:5349?transport=tcp"
                     ]
                 }
             ]
